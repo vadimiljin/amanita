@@ -1,0 +1,2 @@
+# amanita
+Amanita Muscaria Project
