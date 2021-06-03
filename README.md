@@ -2,6 +2,7 @@
 Amanita Muscaria Project
 
 
-1. bandage with 0.33 grams
-2. second bandage with 0.33 grams
-3. third bandage with 0.33 grams
+1. first bandage 0.33 grams
+2. second bandage 0.33 grams
+3. third bandage 0.33 grams
+4. fourth bandage 0.33 grams
