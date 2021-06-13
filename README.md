@@ -8,3 +8,4 @@ Amanita Muscaria Project
 4. fourth bandage 0.33 grams
 
 5. fifth bandage 0.5 g
+5. sixth bandage 0.5 g (+water drop)
